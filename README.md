@@ -31,17 +31,14 @@
 ## 📱 Capturas de Pantalla
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500?text=Pantalla+Principal" width="30%" alt="Pantalla Principal" />
-  <img src="https://via.placeholder.com/250x500?text=Reproductor" width="30%" alt="Reproductor" />
-  <img src="https://via.placeholder.com/250x500?text=Ajustes+y+Temas" width="30%" alt="Ajustes" />
-</p>
+  <img src="https://ia601608.us.archive.org/11/items/53c-6e-8d-9dsc-539d-29064890508ba-9521/Screenshot_20261028_192112_com_clone_android_dual_space_VMDisplayActivity.jpg" width="30%" alt="Image1" />
+  <img scr="https://ia601608.us.archive.org/11/items/53c-6e-8d-9dsc-539d-29064890508ba-9521/Screenshot_20261028_192129_com_clone_android_dual_space_VMDisplayActivity.jpg" width="30%" alt="Image2" />
+  <img scr="https://ia601608.us.archive.org/11/items/53c-6e-8d-9dsc-539d-29064890508ba-9521/Screenshot_20261028_192345_com_clone_android_dual_space_VMDisplayActivity.jpg" width="30%" alt="Image3" />
+  <img src="https://ia601608.us.archive.org/11/items/53c-6e-8d-9dsc-539d-29064890508ba-9521/Screenshot_20261028_192433_com_clone_android_dual_space_VMDisplayActivity.jpg" width="30%" alt="Image4" />
 
 ---
 
-## 📥 Descarga e Instalación
-
-Para probar la aplicación en tu dispositivo:
-
+## 🤔 ¿Como Instalar el Apk?
 1. Ve a la sección de **[Releases](../../releases)** de este repositorio.
 2. Descarga el archivo `.apk` de la versión Beta más reciente.
 3. Instala la APK en tu dispositivo Android (asegúrate de autorizar la instalación desde fuentes externas si tu sistema lo solicita).
@@ -60,3 +57,11 @@ Al estar en versión Beta, tu ayuda es fundamental:
 ## 📄 Licencia
 
 Este proyecto es software libre. Puedes consultar el archivo `LICENSE` en este repositorio para obtener más detalles sobre su distribución y uso.
+
+---
+## 🤖 Buscanos en F-Droid
+
+En F-Droid nos encontramos como **Flou Music - Reproductor de Música (Beta)** Solo escriba Eso en F-Droid y listo, podra descargar nuestro Apk Oficial 
+
+> ⚠️ **Aviso de Seguridad**
+> Nuestra App Oficial solo está en **F-Droid** y Aquí en **GitHub**, Si usted ve esta aplicación en **Google Play Store** es Probable que se trate de una **Aplicación Falsa**, Una aplicación Plagada de **Anuncios** con **Compras** dentro de la app y hasta poder contener **Virus** Así que si la Ve ahí **¡NO LA DESCARGUE DESDE LA GOOGLE PLAY STORE!** Instalé la app Oficial desde Aquí o desde F-Droid
