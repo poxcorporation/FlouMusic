@@ -62,6 +62,8 @@ Este proyecto es software libre. Puedes consultar el archivo `LICENSE` en este r
 ## 🤖 Buscanos en F-Droid
 
 En F-Droid nos encontramos como **Flou Music - Reproductor de Música (Beta)** Solo escriba Eso en F-Droid y listo, podra descargar nuestro Apk Oficial (Primero Active IzzyOnDroid)
+<p align="left">
+<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" width="30%" alt="Image4" />
 
 > ⚠️ **Aviso de Seguridad**
 > Nuestra App Oficial solo está en **F-Droid** y Aquí en **GitHub**, Si usted ve esta aplicación en **Google Play Store** es Probable que se trate de una **Aplicación Falsa**, Una aplicación Plagada de **Anuncios** con **Compras** dentro de la app y hasta poder contener **Virus** Así que si la Ve ahí **¡NO LA DESCARGUE DESDE LA GOOGLE PLAY STORE!** Instalé la app Oficial desde Aquí o desde F-Droid
