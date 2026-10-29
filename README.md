@@ -1,5 +1,8 @@
 # Flou Music 🎵
 
+<p aling="center">
+<img src="https://files.catbox.moe/y0vlr2.png" width="100%" alt="Logo" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-Beta-orange?style=for-the-badge" alt="Estado Beta">
   <img src="https://img.shields.io/badge/Licencia-Libre-green?style=for-the-badge" alt="Licencia Libre">
