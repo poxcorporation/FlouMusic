@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombres antiguos (modo oscuro) -->
+    <color name="colorPrimary">#FFD0BCFF</color>
+    <color name="colorPrimaryDark">#FF4F378B</color>
+    <color name="colorAccent">#FFD0BCFF</color>
+
+    <color name="primary_purple">#FFD0BCFF</color>
+    <color name="primary_container_purple">#FF4F378B</color>
+    
+    <color name="primary_blue">#FF82B1FF</color>
+    <color name="primary_container_blue">#FF003F7F</color>
+    
+    <color name="primary_green">#FF81C784</color>
+    <color name="primary_container_green">#FF1B5E20</color>
+    
+    <color name="primary_red">#FFFF8A80</color>
+    <color name="primary_container_red">#FFB71C1C</color>
+    
+    <color name="primary_orange">#FFFFB74D</color>
+    <color name="primary_container_orange">#FFE65100</color>
+    
+    <color name="primary_pink">#FFFF80AB</color>
+    <color name="primary_container_pink">#FF880E4F</color>
+    
+    <color name="primary_teal">#FF80CBC4</color>
+    <color name="primary_container_teal">#FF004D40</color>
+</resources>

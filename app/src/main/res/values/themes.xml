@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.FlouMusic.Base" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryContainer">@color/primary_container_purple</item>
+        <item name="colorOnPrimary">@color/on_primary_purple</item>
+    </style>
+
+    <style name="Theme.FlouMusic.Purple" parent="Theme.FlouMusic.Base">
+        <item name="colorPrimary">@color/primary_purple</item>
+        <item name="colorPrimaryContainer">@color/primary_container_purple</item>
+    </style>
+
+    <style name="Theme.FlouMusic.Blue" parent="Theme.FlouMusic.Base">
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryContainer">@color/primary_container_blue</item>
+    </style>
+
+    <style name="Theme.FlouMusic.Green" parent="Theme.FlouMusic.Base">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryContainer">@color/primary_container_green</item>
+    </style>
+
+    <style name="Theme.FlouMusic.Red" parent="Theme.FlouMusic.Base">
+        <item name="colorPrimary">@color/primary_red</item>
+        <item name="colorPrimaryContainer">@color/primary_container_red</item>
+    </style>
+
+    <style name="Theme.FlouMusic.Orange" parent="Theme.FlouMusic.Base">
+        <item name="colorPrimary">@color/primary_orange</item>
+        <item name="colorPrimaryContainer">@color/primary_container_orange</item>
+    </style>
+
+    <style name="Theme.FlouMusic.Pink" parent="Theme.FlouMusic.Base">
+        <item name="colorPrimary">@color/primary_pink</item>
+        <item name="colorPrimaryContainer">@color/primary_container_pink</item>
+    </style>
+
+    <style name="Theme.FlouMusic.Teal" parent="Theme.FlouMusic.Base">
+        <item name="colorPrimary">@color/primary_teal</item>
+        <item name="colorPrimaryContainer">@color/primary_container_teal</item>
+    </style>
+
+</resources>

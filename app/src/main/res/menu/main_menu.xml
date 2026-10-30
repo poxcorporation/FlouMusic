@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:title="Ajustes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_open_m3u"
+        android:title="Abrir Archivo M3U"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_export_m3u"
+        android:title="Exportar Lista M3U"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_github"
+        android:title="Código en GitHub"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_developer"
+        android:title="Desarrollador"
+        app:showAsAction="never" />
+</menu>

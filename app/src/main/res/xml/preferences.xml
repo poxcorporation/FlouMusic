@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="Apariencia">
+        <ListPreference
+            android:key="theme_mode"
+            android:title="Tema"
+            android:summary="%s"
+            android:entries="@array/theme_entries"
+            android:entryValues="@array/theme_values"
+            android:defaultValue="system" />
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Color de la aplicación">
+        <ListPreference
+            android:key="app_color"
+            android:title="Color principal"
+            android:summary="%s"
+            android:entries="@array/color_entries"
+            android:entryValues="@array/color_values"
+            android:defaultValue="purple" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

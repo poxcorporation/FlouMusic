@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombres antiguos (necesarios para compatibilidad con estilos heredados) -->
+    <color name="colorPrimary">#FF6750A4</color>
+    <color name="colorPrimaryDark">#FF4F378B</color>
+    <color name="colorAccent">#FF6750A4</color>
+
+    <!-- Morado -->
+    <color name="primary_purple">#FF6750A4</color>
+    <color name="primary_container_purple">#FFEADDFF</color>
+    <color name="on_primary_purple">#FFFFFFFF</color>
+    
+    <!-- Azul -->
+    <color name="primary_blue">#FF1565C0</color>
+    <color name="primary_container_blue">#FFD1E4FF</color>
+    <color name="on_primary_blue">#FFFFFFFF</color>
+    
+    <!-- Verde -->
+    <color name="primary_green">#FF2E7D32</color>
+    <color name="primary_container_green">#FFC8E6C9</color>
+    <color name="on_primary_green">#FFFFFFFF</color>
+    
+    <!-- Rojo -->
+    <color name="primary_red">#FFC62828</color>
+    <color name="primary_container_red">#FFFFCDD2</color>
+    <color name="on_primary_red">#FFFFFFFF</color>
+    
+    <!-- Naranja -->
+    <color name="primary_orange">#FFEF6C00</color>
+    <color name="primary_container_orange">#FFFFE0B2</color>
+    <color name="on_primary_orange">#FFFFFFFF</color>
+    
+    <!-- Rosa -->
+    <color name="primary_pink">#FFC2185B</color>
+    <color name="primary_container_pink">#FFF8BBD9</color>
+    <color name="on_primary_pink">#FFFFFFFF</color>
+    
+    <!-- Teal -->
+    <color name="primary_teal">#FF00695C</color>
+    <color name="primary_container_teal">#FFB2DFDB</color>
+    <color name="on_primary_teal">#FFFFFFFF</color>
+</resources>

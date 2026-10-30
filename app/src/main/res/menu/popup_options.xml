@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/opt_speed" android:title="Velocidad de reproducción" />
+    <item android:id="@+id/opt_share" android:title="Compartir canción" />
+    <item android:id="@+id/opt_playlist" android:title="Agregar a Playlist" />
+    <item android:id="@+id/opt_open_with" android:title="Abrir canción en..." />
+    <item android:id="@+id/opt_shuffle" android:title="Modo Aleatorio" />
+    <item android:id="@+id/opt_repeat" android:title="Repetir Canción" />
+</menu>
